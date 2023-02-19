@@ -5,7 +5,7 @@
 /**
  * main: determines if a number is positive, negative or zero
  *
- * Return: Always 0 (Success) 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -22,7 +22,7 @@ int main(void)
 		printf("%d is Zero\n", n);
 	}
 	else
-	{	
+	{
 		printf("%d is Negetive\n", n);
 	}
 	return (0);
