@@ -1,4 +1,5 @@
-#include <main.h>
+#include "main.h"
+#include <stdlib.h>
 /**
  * _abs - checks if the alphabet is a lowercase
  * @n: Description of parameter c (this is an integer parameter)
