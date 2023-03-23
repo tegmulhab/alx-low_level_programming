@@ -11,12 +11,9 @@
 		int i = 0;
 		char *str, *sep = "";
 
-
 		va_list list;
 
-
 		va_start(list, format);
-
 
 		if (format)
 		{
@@ -47,7 +44,6 @@
 				i++;
 			}
 		}
-
 
 		printf("\n");
 		va_end(list);
